@@ -1,9 +1,9 @@
 # Python_project
 
-Title:
+#Title:
 
-Strong Password Generator (Clear and emphasizes security)
-Description:
+#Strong Password Generator (Clear and emphasizes security)
+#Description:
 
 Say goodbye to weak passwords! This Python project helps you create secure and unique passwords for all your online accounts.
 Here's what it offers:
