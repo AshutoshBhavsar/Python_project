@@ -1,6 +1,6 @@
 # Python_project
 
-##Title:
+Title:
 
 Strong Password Generator (Clear and emphasizes security)
 Description:
