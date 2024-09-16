@@ -2,7 +2,7 @@
 
 #Title:
 
-/*Strong Password Generator (Clear and emphasizes security)
+Strong Password Generator (Clear and emphasizes security)
 Description:
 
 Say goodbye to weak passwords! This Python project helps you create secure and unique passwords for all your online accounts.
@@ -47,4 +47,4 @@ After inputting the values, you will receive a generated password:
 Generated Password: aBc#1!dE2fG
 
 
-*/
+
